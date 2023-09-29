@@ -1,1 +1,1 @@
-# Automobiles-Price-PredictionModel
+The objective of this project was to develop a predictive model for automobile prices through the application of Simple Linear Regression, Multiple Linear Regression, and the analysis of Multicollinearity.
